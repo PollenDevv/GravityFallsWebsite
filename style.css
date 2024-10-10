@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+pre{
+    color: white;
+    size: 2em;
+    text-align: center;
+}
